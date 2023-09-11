@@ -12,7 +12,7 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-npm install create-ext-app
+npm install -g create-ext-app
 ```
 ## Features
 * Crate extension api projects with ease.
