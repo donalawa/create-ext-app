@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+
+# Build directory
+dist/
+
+# MacOS folder attributes
+**/.DS_Store
+
+# Visual Studio Code settings
+.vscode/**/*
+!.vscode/settings.json
