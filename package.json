@@ -30,5 +30,13 @@
     "fs-extra": "^11.1.1",
     "inquirer": "^4.0.1",
     "rimraf": "^5.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donalawa/create-ext-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/donalawa/create-ext-app/issues"
+  },
+  "homepage": "https://github.com/donalawa/create-ext-app#readme"
 }
